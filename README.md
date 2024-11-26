@@ -21,8 +21,8 @@ Deployment Platform: (e.g., Netlify, Vercel, or GitHub Pages)
 ## 🖥️ Installation and Usage
 
 Clone the Repository
-git clone https://github.com/yourusername/openweathermap-weather-finder.git
-cd openweathermap-weather-finder
+git clone https://github.com/Habichuela0/Open-Weather-Map
+cd Open-Weather-Map
 Set Up API Key
 Sign up at OpenWeatherMap and obtain an API key.
 Create a .env file (if using a local server) or directly configure the config.js file with your API key:
